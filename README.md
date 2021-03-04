@@ -292,9 +292,7 @@ Empaquetado:
 
 ![](./img/empaquetado.PNG)
 
-Test:
 
-![](./img/test.PNG)
 
 ## Control de versiones
 
