@@ -246,7 +246,7 @@ Se realizo la implementacion de la siguiente forma:
 	
 	de forma que se evidencia lo siguiente:
 	
-	![](./img/cur2.PNG)
+	![](./img/curl2.PNG)
 
 Se realiza la implementacion quedando de la siguiente manera:
 
