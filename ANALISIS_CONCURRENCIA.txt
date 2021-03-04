@@ -1,0 +1,7 @@
+* Qué condiciones de carrera se podrían presentar?
+
+Existe la posibilidad de que que se cuenta con una condicion de carrera, al observar la lista de Bluesprints en el momento en el cual se accede al recurso compartido de los respectivos planos, ademas de evidenciarse una posible condicion de carrera en los casos en los cuales se desean actualizar los planos, de mas de uno plano a la vez, independientemente si es del mismo usuario o es de un usuario distinto
+
+* Cuales son las respectivas regiones críticas?
+
+Es posible contar con regiones criticas en lo que respecta a la solicitudes que se realizan de forma concurrente, ademas de al intentar actualizar los planos o al realizar cambios de mapeo MAP que contieen los planos al hacer la peticion PUT, debido que se debe tener en cuenta que en un mismo instante se puede contar con mas de un cliente o susuario que este realizando alguna de las dos actividades nombradas de forma que al hacerlo de manera simultanea se generar dichas regiones criticas que son de gran importancia considerar para manejarlo de manera optima.
