@@ -77,7 +77,7 @@ public InMemoryBlueprintPersistence() {
 
 	Se realizo de la siguiente forma con la clase del controlador
 	
-	```
+```
 @RestController
 @RequestMapping(value="/blueprints")
 public class BlueprintAPIController {
@@ -130,7 +130,7 @@ public class BlueprintAPIController {
         }
     }
 }
-	```
+```
 	
 
 4. Verifique el funcionamiento de a aplicación lanzando la aplicación con maven:
@@ -292,7 +292,10 @@ Empaquetado:
 
 ![](./img/empaquetado.PNG)
 
+Ejecucion en maquina Local en el puerto 8080:
 
+
+![](./img/spring.PNG)
 
 ## Control de versiones
 
